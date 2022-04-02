@@ -1,0 +1,32 @@
+{
+
+  "productList" : [
+    {
+      "productId":1,
+      "name": "Saffron Cream",
+      "skinType":"dry",
+      "price":250
+    
+    },
+    {
+      "productId":2,
+      "name": "Red Wine Gel",
+      "skinType":"dry",
+      "price":250
+    },
+    {
+    
+      "productId":3,
+      "name": "Papaya Cream",
+      "skinType":"oily",
+      "price":250
+     },
+    {
+      "productId":4,
+      "name": "Milk Cream",
+      "skinType":"sensitive",
+      "price":250
+    }
+    ]
+  
+  }
